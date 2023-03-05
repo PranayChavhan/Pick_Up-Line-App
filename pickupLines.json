@@ -1,0 +1,45 @@
+[
+    {
+      "category": "romantic",
+      "gender": "male",
+      "age": "18-25",
+      "interests": "music",
+      "text": "Do you believe in love at first sight, or should I walk by again?"
+    },
+    {
+      "category": "romantic",
+      "gender": "female",
+      "age": "26-35",
+      "interests": "travel",
+      "text": "Excuse me, do you have a map? I got lost in your eyes."
+    },
+    {
+      "category": "funny",
+      "gender": "neutral",
+      "age": "all",
+      "interests": "books",
+      "text": "Are you a book? Because I can't stop staring at your cover."
+    },
+    {
+      "category": "cheesy",
+      "gender": "male",
+      "age": "36+",
+      "interests": "food",
+      "text": "I must be a snowflake, because I've fallen for you hard."
+    },
+    {
+      "category": "romantic",
+      "gender": "female",
+      "age": "all",
+      "interests": "movies",
+      "text": "If you were a movie, I'd watch you over and over again."
+    },
+    {
+      "category": "funny",
+      "gender": "male",
+      "age": "26-35",
+      "interests": "",
+      "text": "Do you have a sunburn or are you always this hot?"
+    }
+  ]
+  
